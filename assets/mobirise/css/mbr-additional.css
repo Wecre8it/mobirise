@@ -949,6 +949,7 @@ section.lazy-placeholder:after {
 }
 .cid-rL0BS2SUQA .navbar-dropdown {
   padding: .5rem 1rem;
+  position: fixed;
 }
 .cid-rL0BS2SUQA a.nav-link {
   display: flex;
